@@ -1,0 +1,11 @@
+# Contoh ads.txt sederhana
+# Ganti example.com dengan domain Anda
+
+# Google Adsense
+google.com, pub-0000000000000000, DIRECT, f08c47fec0942fa0
+# Ganti pub-0000000000000000 dengan ID Penerbit Google Adsense Anda
+
+# Jaringan Iklan Lainnya
+# Ganti example.com dengan domain Anda
+dyra.shop, 12345, DIRECT
+# Ganti example.com dengan domain Anda dan 12345 dengan ID akun penjual Anda
